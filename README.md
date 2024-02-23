@@ -14,7 +14,6 @@ This dataset contains information about various attributes of a set of fruits, p
 
 #2 Size vs. Weight graph : 
 
-
 ![image](https://github.com/simgosh/Apple-Quality-EDA-ML/assets/158474992/70de507c-6246-4130-be44-94e6c6e51e85)
 
 

@@ -53,7 +53,7 @@ for i in taste:
     plt.ylabel("Size")
     plt.title(f"Scatter plot : {i} vs. Size")
     plt.show()
-
+    
 # from matplotlib import colormaps
 # print(list(colormaps))
 
